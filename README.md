@@ -1,12 +1,14 @@
 # Vinícius Ferreira (っ-,-)つ
 
-### Desenvolvedor Junior
+### Desenvolvedor Junior  | Junior Developer
 
 Me chamo Vinícius Ferreira e atualmente estou cursando Análise e Desenvolvimento de Sistemas pelo Senai. Sou um amante da tecnologia e entusiasta pela inovação, objetificando capacitar-me nas tecnologias e inovações em ascendência na área da Tecnologia da Informação.
 
+My name is Vinícius Ferreira and I'm currently studying Systems Analysis and Development at Senai. I'm a technology lover and innovation enthusiast, aiming to train myself in the technologies and innovations on the rise in the Information Technology area.
+
 ---
 
-### 🖥️ Linguagens e Tecnologias
+### 🖥️ Linguagens e Tecnologias | Languages and Technology
 
 <img
     align="left"
@@ -110,7 +112,7 @@ Me chamo Vinícius Ferreira e atualmente estou cursando Análise e Desenvolvimen
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas | Stats
 
 <img
     align="left"
